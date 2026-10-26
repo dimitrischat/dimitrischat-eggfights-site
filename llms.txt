@@ -1,0 +1,16 @@
+# EggFights
+
+> Android game based on the Easter egg-tapping tradition (Greek tsougrisma, Serbian tucanje jajima, Romanian ciocnitul ouălor). Two players duel with two phones in the same room; the phones connect directly, no internet needed.
+
+## Facts
+- Platform: Android (Google Play)
+- Price: free, with optional rewarded video ads; no banner ads, no paywall
+- Available in: Serbia, Romania
+- Game language: English
+- Modes: local two-player duel, local tournament, single-player campaign, EggRun and EggCatcher side games
+
+## Links
+- Google Play: https://play.google.com/store/apps/details?id=com.EggClash.EggClash
+- Srpski: https://www.eggfights.com/sr/
+- Română: https://www.eggfights.com/ro/
+- Support: support@eggfights.com

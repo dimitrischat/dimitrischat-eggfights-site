@@ -21,3 +21,5 @@ li{margin:5px 0}
 a{color:#b8860b}
 .box{background:#fdf8ec;border-left:4px solid var(--accent);padding:14px 18px;margin:20px 0;border-radius:0 6px 6px 0}
 footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+.play{display:inline-block;background:var(--ink);color:#fff;text-decoration:none;font-weight:700;padding:10px 18px;border-radius:8px;margin-bottom:8px}
+.play:hover{background:#000}
